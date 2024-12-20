@@ -245,5 +245,5 @@ Microsoft Azure is designed to scale with the needs of growing businesses:
 Transitioning to Microsoft Azure will enable “Paws & Whiskers” to transform its data management and analytics processes. By leveraging Azure’s powerful storage, automation, and analytics tools, the business can streamline operations, gain valuable insights, and ensure compliance with data protection regulations. This strategic move positions “Paws & Whiskers” for continued growth and success in a competitive market.
 
 
-
+##
 Back to [Welcome Page](https://andypeacock215.github.io/Welcome-To-My-Profile/)
