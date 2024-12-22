@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/b1725bfc-582f-46ac-8515-c477caff3150" width="75" height="75" />         Back to [Welcome Page](https://andypeacock215.github.io/Welcome-To-My-Profile/)
+<img src="https://github.com/user-attachments/assets/950cba57-54b0-4b40-a5bb-74c60f592d74" width="75" />         Back to [Welcome Page](https://andypeacock215.github.io/Welcome-To-My-Profile/)
 
 # Data In Business
 
